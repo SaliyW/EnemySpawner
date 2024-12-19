@@ -21,6 +21,4 @@ public class Enemy : MonoBehaviour
     {
         _speed = speed;
     }
-
-    CHANGED
 }
